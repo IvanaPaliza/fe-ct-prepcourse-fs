@@ -4,6 +4,7 @@
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
+   
    return string;
 }     
 
